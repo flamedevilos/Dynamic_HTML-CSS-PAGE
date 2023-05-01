@@ -1,2 +1,2 @@
-# Dynamic_redirecting_pages_HMTL-CSS
+# Dynamic_HMTL-CSS elements
  
